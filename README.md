@@ -7,7 +7,11 @@
 - an infinite scroll
 - a stunning UI with a native mobile feel
 
+[Visit site](https://sparklegram.vercel.app)
 
+### How does this work
+
+![](demo.gif)
 
 ### Setup .env file
 
